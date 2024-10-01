@@ -12,5 +12,5 @@ myName = "Stella";
 myAge = 60;
 iAm = "seller";
 
-herAge = 2024 - 1964;
+myAge = 2024 - 1964;
 console.log("Hi, my grandma is called " + myName + ", she is " + myAge + " years old, and she is a " + iAm)
